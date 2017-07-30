@@ -11,5 +11,9 @@ public class Main {
 	public static void displayData(){
 		System.out.println("Display Data");
 	}
+	
+	public static void displayToday(){
+		System.out.println("Today");
+	}
 
 }
