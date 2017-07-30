@@ -7,5 +7,9 @@ public class Main {
 		// comment2
 
 	}
+	
+	public static void displayData(){
+		System.out.println("Displaying");
+	}
 
 }
