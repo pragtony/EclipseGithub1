@@ -9,7 +9,7 @@ public class Main {
 	}
 	
 	public static void displayData(){
-		System.out.println("Displaying");
+		System.out.println("Dis");
 	}
 
 }
